@@ -8,7 +8,7 @@ PyTorch implementation of EmotionBox, the paper is available on
 
 The codes contain the proposed method and label-based method.
 
-The trained models are in the .\save dir.
+The trained models are in the release, and you can download them and put them in the .\save dir to generate music.
 
 ## Generated Samples
 
